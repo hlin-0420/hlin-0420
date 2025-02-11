@@ -46,7 +46,7 @@ and an MEng in Computer Science (2019 - 23) from **University College London (UC
 ---
 
 ### 📈 LinkedIn Stats
-- 👥 5,811 followers
+- 👥 5,800+ followers
 - 🔗 500+ professional connections
 
 ---
