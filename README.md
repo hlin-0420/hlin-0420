@@ -39,9 +39,19 @@ and an MEng in Computer Science (2019 - 23) from **University College London (UC
 ---
 
 ### 🌟 My Work
+
+#### 💻 Coding Profile
 - 🚀 Developer of cutting-edge AI tools and frameworks
 - 🌱 Advocate for sustainable and ethical AI solutions
 - 🔗 [Explore My Projects Here](https://github.com/hlin863)
+
+#### 🎨 Art Portfolio
+
+I regularly contribute to challenges on **NightCafe Studio**, check out my creations [here](https://creator.nightcafe.studio/u/HaochengLin656). 
+
+Some of my featured artworks include:
+
+![View My AI Art](https://images.nightcafe.studio/jobs/FcFpAjDSC0vHWSgj3d5B/FcFpAjDSC0vHWSgj3d5B--4--vtszn.jpg)
 
 ---
 
