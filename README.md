@@ -45,6 +45,10 @@ and an MEng in Computer Science (2019 - 23) from **University College London (UC
 - 🌱 Advocate for sustainable and ethical AI solutions
 - 🔗 [Explore My Projects Here](https://github.com/hlin863)
 
+#### ✍️ Writing Blog
+- 📖 I write about AI, tech, and society.  
+- 📝 Read my latest thoughts and essays on [Medium](https://medium.com/@haochenglin)
+
 #### 🎨 Art Portfolio
 
 I regularly contribute to challenges on **NightCafe Studio**, check out my creations [here](https://creator.nightcafe.studio/u/HaochengLin656). 
