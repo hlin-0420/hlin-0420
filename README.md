@@ -8,14 +8,14 @@
 
 # 👋 Hi, I'm Haocheng Lin
 
-### 🌟 MSc AI @ UCL | AI Developer and Researcher @ Geologix
+### 🌟 MSc AI @ UCL | Applied AI Engineer @ Geologix
 
 ---
 
 Welcome to my GitHub profile! I am an AI enthusiast with a strong focus on Natural Language Processing (NLP) and sustainable AI development. 
-Currently, I am applying my expertise as an AI Developer and Researcher at **Geologix**, 
+Currently, I am applying my expertise as an Applied AI Engineer at **Geologix**, 
 after obtaining an MSc in Artificial Intelligence for Sustainable Development (2023 - 24)
-and an MEng in Computer Science (2019 - 23) from **University College London (UCL)** .
+and an MEng in Computer Science (2019 - 23) from **University College London (UCL)**.
 
 ---
 
@@ -31,7 +31,7 @@ and an MEng in Computer Science (2019 - 23) from **University College London (UC
 ---
 
 ### 💻 Experience
-- **AI Developer and Researcher**  
+- **Applied AI Engineer**  
   _Geologix, Norwich, England (Hybrid)_  
   _Jan 2025 – Present_  
   _Focus: Data processing and user-experience improvement in AI-driven solutions._
